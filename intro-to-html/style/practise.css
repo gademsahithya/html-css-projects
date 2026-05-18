@@ -1,0 +1,72 @@
+.pc{
+    font-family: tahoma;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 8px;
+   }
+   .pd{
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px; 
+  }
+  .pe{
+    font-style: italic;
+    color: red;
+    font-size: 14px;
+    margin-top: 0;
+  }
+  .pf{
+    font-family: verdana;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  .pg{
+    color: gray;
+    font-size: 14px;
+    margin-top: 0;
+    font-family: verdana;
+    margin-bottom: 20px;
+    margin-top: 0;
+  }
+  .ph{
+    color: black;
+    font-family: verdana;
+    width: 300px;
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 0;
+    margin-bottom: 8px;
+  }
+  .pi{
+    background-color: green;
+    color: white;
+    font-size: 15px;
+    border-radius: 3px;
+    border: none;
+    font-weight: bold;
+    margin-top: 0;
+  }
+  .po{
+    font-family: arial;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .pj{
+    font-family: arial;
+    font-size: 14px;
+    color: grey;
+    margin-top: o;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .pk{
+    font-family: arial;
+    font-size: 14px;
+    color: blue;
+    margin-top: 0;
+    text-align: center;
+  }
